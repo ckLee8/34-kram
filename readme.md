@@ -1,7 +1,8 @@
 gem install sinatra
-gem install thin
-ruby server.rb      (in terminal)
 
+gem install thin
+
+ruby server.rb      (in terminal)
 
 test commands       (in terminal)
 
